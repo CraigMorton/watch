@@ -1,5 +1,5 @@
 {
-  "name": "watch",
+  "name": "@craigmorton/watch",
   "description": "Utilities for watching file trees.",
   "scripts": {
     "release:major": "bash scripts/release.sh major",
@@ -15,15 +15,15 @@
   "bin": {
     "watch": "./cli.js"
   },
-  "version": "1.0.2",
-  "homepage": "https://github.com/mikeal/watch",
+  "version": "2.0.0",
+  "homepage": "https://github.com/Craigmorton/watch",
   "bugs": {
-    "url": "https://github.com/mikeal/watch/issues"
+    "url": "https://github.com/CraigMorton/watch/issues"
   },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mikeal/watch.git"
+    "url": "git://github.com/CraigMorton/watch.git"
   },
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
   "directories": {
