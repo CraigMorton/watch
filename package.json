@@ -30,11 +30,11 @@
     "lib": "lib"
   },
   "engines": {
-    "node": ">=0.1.95"
+    "node": ">=4.9.1"
   },
   "main": "./main",
   "dependencies": {
-    "exec-sh": "^0.2.0",
+    "exec-sh": "^0.4.0",
     "minimist": "^1.2.0"
   }
 }
